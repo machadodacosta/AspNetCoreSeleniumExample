@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exemplo.AspNetCoreSelenium", "Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium.csproj", "{8C7C4F6C-CB59-4AC9-BD9F-88CD4217EDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7C4F6C-CB59-4AC9-BD9F-88CD4217EDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7C4F6C-CB59-4AC9-BD9F-88CD4217EDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7C4F6C-CB59-4AC9-BD9F-88CD4217EDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7C4F6C-CB59-4AC9-BD9F-88CD4217EDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3986B858-C440-4DCF-BDF8-33B5873D17CB}
+	EndGlobalSection
+EndGlobal

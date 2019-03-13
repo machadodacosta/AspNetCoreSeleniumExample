@@ -1,0 +1,14 @@
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.deps.json
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.runtimeconfig.json
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.runtimeconfig.dev.json
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.dll
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.pdb
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.csprojAssemblyReference.cache
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.csproj.CoreCompileInputs.cache
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.AssemblyInfoInputs.cache
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.AssemblyInfo.cs
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.dll
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\obj\Debug\netcoreapp2.0\Exemplo.AspNetCoreSelenium.pdb
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\regio.costa\Desktop\Estudos\Selenium\Exemplo.AspNetCoreSelenium\Exemplo.AspNetCoreSelenium\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
